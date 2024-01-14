@@ -1,0 +1,28 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Equipe/pom.xml" />
+        <option value="$PROJECT_DIR$/Match/pom.xml" />
+        <option value="$PROJECT_DIR$/Stade/pom.xml" />
+        <option value="$PROJECT_DIR$/Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Discovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Stade-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Match-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Equipe/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
